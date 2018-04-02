@@ -1,0 +1,12 @@
+2018-04-01 17:34:03 ERROR by.training.epam.util.XMLValidator.validate 37 - Validation error. Content is not allowed in prolog.
+2018-04-01 17:45:29 ERROR by.training.epam.util.XMLValidator.validate 37 - Validation error. Content is not allowed in prolog.
+2018-04-01 17:55:41 INFO  by.training.epam.util.XMLValidator.validate 37 - Document is valid!
+2018-04-01 17:58:10 ERROR by.training.epam.util.XMLValidator.validate 40 - Validation error. cvc-complex-type.2.4.a: Invalid content was found starting with element 'ingredients'. One of '{"http://www.epam.training.by/classes":energy}' is expected.
+2018-04-02 14:25:24 INFO  by.training.epam.util.XMLValidator.convertXMLToHTML 35 - XML file has been transformed successfully!
+2018-04-02 14:32:01 INFO  by.training.epam.util.XMLValidator.convertXMLToHTML 35 - XML file has been transformed successfully!
+2018-04-02 14:32:44 INFO  by.training.epam.util.XMLValidator.convertXMLToHTML 35 - XML file has been transformed successfully!
+2018-04-02 14:35:09 INFO  by.training.epam.util.XMLValidator.convertXMLToHTML 35 - XML file has been transformed successfully!
+2018-04-02 14:37:04 INFO  by.training.epam.util.XMLValidator.convertXMLToHTML 35 - XML file has been transformed successfully!
+2018-04-02 14:37:39 INFO  by.training.epam.util.XMLValidator.convertXMLToHTML 35 - XML file has been transformed successfully!
+2018-04-02 14:39:31 INFO  by.training.epam.util.XMLValidator.convertXMLToHTML 35 - XML file has been transformed successfully!
+2018-04-02 14:43:55 INFO  by.training.epam.util.XMLValidator.convertXMLToHTML 35 - XML file has been transformed successfully!

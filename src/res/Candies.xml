@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<candies xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.epam.training.by/classes" xsi:schemaLocation="http://www.epam.training.by/classes CandiesXSD.xsd">
+    <candy id="c001" type="caramel">
+        <name>Duchesse</name>
+        <energy>397</energy>
+        <ingredients>
+            <water>10</water>
+            <sugar>55</sugar>
+            <fructose>0</fructose>
+            <vanillin>10</vanillin>
+        </ingredients>
+        <value>
+            <proteins>2</proteins>
+            <fats>0</fats>
+            <carbohydrates>97</carbohydrates>
+        </value>
+        <production>Roshen</production>
+    </candy>
+    <candy id="c002" type="caramel">
+        <name>Barbaris</name>
+        <energy>365</energy>
+        <ingredients>
+            <water>11</water>
+            <sugar>58</sugar>
+            <fructose>0</fructose>
+            <vanillin>8</vanillin>
+        </ingredients>
+        <value>
+            <proteins>3</proteins>
+            <fats>0</fats>
+            <carbohydrates>95</carbohydrates>
+        </value>
+        <production>Spartak</production>
+    </candy>
+    <candy id="c003" type="toffee">
+        <name>Golden Key</name>
+        <energy>378</energy>
+        <ingredients>
+            <water>14</water>
+            <sugar>0</sugar>
+            <fructose>34</fructose>
+            <vanillin>37</vanillin>
+        </ingredients>
+        <value>
+            <proteins>4</proteins>
+            <fats>5</fats>
+            <carbohydrates>90</carbohydrates>
+        </value>
+        <production>Kommunarka</production>
+    </candy>
+    <candy id="c004" type="chocolate">
+        <name>Aeroflot</name>
+        <energy>420</energy>
+        <ingredients>
+            <water>5</water>
+            <sugar>80</sugar>
+            <fructose>0</fructose>
+            <chocolateType>dark</chocolateType>
+            <vanillin>15</vanillin>
+        </ingredients>
+        <value>
+            <proteins>3</proteins>
+            <fats>5</fats>
+            <carbohydrates>92</carbohydrates>
+        </value>
+        <production>Kommunarka</production>
+    </candy>
+    <candy id="c005" type="chocolate" filling="cream fudge">
+        <name>Alyonka</name>
+        <energy>401</energy>
+        <ingredients>
+            <water>0</water>
+            <sugar>70</sugar>
+            <fructose>0</fructose>
+            <chocolateType>milk</chocolateType>
+            <vanillin>30</vanillin>
+        </ingredients>
+        <value>
+            <proteins>20</proteins>
+            <fats>10</fats>
+            <carbohydrates>40</carbohydrates>
+        </value>
+        <production>Spartak</production>
+    </candy>
+    <candy id="c006" type="chocolate">
+        <name>Stolichnaya</name>
+        <energy>455</energy>
+        <ingredients>
+            <water>4</water>
+            <sugar>82</sugar>
+            <fructose>0</fructose>
+            <chocolateType>milk</chocolateType>
+            <vanillin>10</vanillin>
+        </ingredients>
+        <value>
+            <proteins>4</proteins>
+            <fats>5</fats>
+            <carbohydrates>91</carbohydrates>
+        </value>
+        <production>Kommunarka</production>
+    </candy>
+    <candy id="c007" type="chocolate" filling="puffy rice">
+        <name>Nesquik</name>
+        <energy>465</energy>
+        <ingredients>
+            <water>3</water>
+            <sugar>83</sugar>
+            <fructose>0</fructose>
+            <chocolateType>milk</chocolateType>
+            <vanillin>7</vanillin>
+        </ingredients>
+        <value>
+            <proteins>2</proteins>
+            <fats>2</fats>
+            <carbohydrates>95</carbohydrates>
+        </value>
+        <production>Nestle</production>
+    </candy>
+</candies>
